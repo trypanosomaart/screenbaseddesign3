@@ -1,0 +1,312 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>n.eat</title>
+<meta name="description" content="Your description here">
+<link rel="icon" type="image/x-icon" href="/images/your-favicon-here.png">
+<style type="text/css">
+@import url("FrederickatheGreat_Regular/stylesheet.css");
+@import url("PoiretOne_Regular/stylesheet.css");
+@import url("MsMadi_Regular/stylesheet.css");
+
+body,td,th {
+    color: #FFFFFF;
+}
+body {
+    background-color: #000000;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: #FFFFFF;
+    font-family: "PoiretOne Regular";
+    text-align: left;
+}
+.hero-image {
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 3%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+body footer {
+    width: 70%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    text-decoration: none;
+    font-size: x-large;
+    color: #FFFFFF;
+    background-color: #000000;
+    background-clip: content-box;
+    border-style: dotted;
+    border-color: #FFFFFF;
+}
+body main {
+    width: 70%;
+    background-color: #000000;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
+    padding-top: auto;
+    padding-bottom: auto;
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: none;
+    -webkit-box-shadow: 0px 0px 0px 0%;
+    box-shadow: 0px 0px 0px 0%;
+    border-style: solid;
+    border-color: #FFFFFF;
+}
+.menu-section {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: left;
+}
+.menu-section h3 {
+    text-align: center;
+}
+.menu-section {
+}
+.menu-section {
+}
+.menu-section {
+    padding-bottom: 2%;
+}
+#main-menu h2 {
+    width: 50%;
+    color: #FFFFFF;
+    font-family: "FrederickatheGreat Regular";
+    text-align: center;
+    text-transform: uppercase;
+    font-size: xx-large;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-left: auto;
+    padding-right: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+#main-menu p {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: #FFFFFF;
+    font-family: "PoiretOne Regular";
+    font-size: large;
+    text-align: center;
+}
+.menu-section h3 {
+    width: 50%;
+    margin-top: 2%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 2%;
+    padding-top: 2%;
+    padding-right: auto;
+    padding-bottom: 2%;
+    padding-left: auto;
+    color: #FFFFFF;
+    font-family: "MsMadi Regular";
+    font-size: xx-large;
+}
+.menu-section h3 {
+}
+.menu-section .menu-item h4 {
+    width: 50%;
+}
+body {
+    background-image: url(../AdobeStock_971042452.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#main-menu p {
+    width: 70%;
+}
+body {
+    background-image: url(AdobeStock_971042452.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+</style>
+</head>
+
+<body>
+    <header>
+<section class="hero-image"><img src="../neat 2 white.png" width="292" height="97" alt=""/> </section>
+    </header>
+    <main>
+        <div id="main-menu">
+            <h2>Menu</h2>
+            <p>Welcome to N-EAT, where plant-based cuisine meets creativity and flavor! Our menu is thoughtfully crafted to offer vibrant, wholesome dishes that celebrate the richness of nature&rsquo;s bounty. From fresh, locally sourced produce to innovative plant-based ingredients, each dish is designed to nourish the body and delight the senses. Whether you&rsquo;re a dedicated vegan or simply curious about plant-based dining, we invite you to explore a world of bold flavors, sustainable choices, and delicious meals made with care for both you and the planet.</p>
+        </div>
+        <div class="menu-section">
+            <h3>Small plates</h3>
+            <div class="menu-item">
+                <h4>Kimchi Pancakes</h4>
+                <p>Pickled kimchi, fluffy savoury pancakes & Korean Jang sauce (gf)</p>
+                <p>Kr 175</p>
+            </div>
+            <div class="menu-item">
+                <h4>Trio of dips</h4>
+                <p>Turmeric hummus, aubergine baba ganoush & red pepper muhammara served with with pickles, crudités & multiseed crackers (gf)</p>
+                <p>Kr 180</p>
+            </div>
+            <div class="menu-item">
+                <h4>Bbq Cauliflower Wings</h4>
+                <p>Roasted sticky BBQ cauliflower ‘wings’ served with creamy ranch dip (gf)</p>
+                <p>Kr 180</p>
+            </div>
+            <div class="menu-item">
+                <h4>Black Rice & Lentil Bon Bons</h4>
+                <p>Sprouted lentil, black rice & Sicilian spice ‘arancini’ with Napoli dip & fried caper berry sprinkle (gf)</p>
+                <p>Kr 178</p>
+            </div>
+            <div class="menu-item">
+                <h4>Swede Gnocchi (Small)</h4>
+                <p>With roasted chestnut mushroom & spinach in ‘gorgonzola’ cream with spiced walnuts, aged balsamic, yellow carrot curls & micro sage (gf)</p>
+                <p>Kr 184</p>
+            </div>
+            <div class="menu-item">
+                <h4>Asian Watermelon Salad</h4>
+                <p>Fresh watermelon with Thai sweet lime dressing, cucumber, fermented radish, fresh mint & micro coriander (gf)</p>
+                <p>Kr 178</p>
+            </div>
+        </div>
+        <div class="menu-section">
+            <h3>Lunch Bowls</h3>
+            <div class="menu-item">
+                <h4>Yogi Bowl</h4>
+                <p>Golden hummus, quinoa tabbouleh, crunchy veg, grilled tofu, multiseed crackers & edamame beans (gf)</p>
+                <p>Kr 204</p>
+            </div>
+            <div class="menu-item">
+                <h4>Kimchi Tortilla Bowl</h4>
+                <p>Black rice, edamame, cucumber ribbons, avocado with kimchi tortilla slices & Jang mayo dressing (gf)</p>
+                <p>Kr 210</p>
+            </div>
+            <div class="menu-item">
+                <h4>Bon Bon Bowl</h4>
+                <p>Mushroom, quinoa, leaves & Italian basil dressing with sprouted lentil & black rice bon bons (gf)</p>
+                <p>Kr 204</p>
+            </div>
+            <div class="menu-item">
+                <h4>Naked Burger Bowl</h4>
+                <p>Succulent protein pattie on roasted seasonal vegetables, with spinach, purple kraut, avocado, cucumber ribbons & green goddess dressing</p>
+                <p>Kr 208</p>
+            </div>
+        </div>
+        <div class="menu-section">
+            <h3>Large Plates</h3>
+            <div class="menu-item">
+                <h4>Swede Gnocchi</h4>
+                <p>With roasted chestnut mushroom & spinach in ‘gorgonzola’ cream with spiced walnuts, aged balsamic, yellow carrot curls & micro sage (gf)</p>
+                <p>Kr 218</p>
+            </div>
+            <div class="menu-item">
+                <h4>Shakshuka</h4>
+                <p>Chickpeas & aubergine in smoky tomato sauce, paprika, scrambled tofu, leaves & parsley persillade (gf)</p>
+                <p>Kr 215</p>
+            </div>
+            <div class="menu-item">
+                <h4>Baked Tofu Yakitori</h4>
+                <p>with crispy seasonal veg stir fried in rich Yakitori sauce, with black rice, poached pak choi, peppers & micro coriander (gf)</p>
+                <p>Kr 220</p>
+            </div>
+            <div class="menu-item">
+                <h4>Dirty Burger</h4>
+                <p>Succulent protein pattie, with lettuce, tomato, fermented pickle, ketchup & sriracha mayo in a toasted sesame bun. Served with roasted potato fries</p>
+                <p>Kr 220</p>
+            </div>
+        </div>
+        <div class="menu-section">
+            <h3>Desserts</h3>
+            <div class="menu-item">
+                <h4>Baked Raspberry ‘Cheese’cake</h4>
+                <p>with raspberry compote (gf)</p>
+                <p>Kr 170</p>
+            </div>
+            <div class="menu-item">
+                <h4>Chocolate & Avocado Torte</h4>
+                <p>with hazelnut & orange coulis (gf)</p>
+                <p>Kr 178</p>
+            </div>
+            <div class="menu-item">
+                <h4>Sticky Toffee Pudding</h4>
+                <p>with vanilla custard</p>
+                <p>Kr 180</p>
+            </div>
+            <div class="menu-item">
+                <h4>Fudge Brownie Sundae</h4>
+                <p>vanilla ice cream with almond brownie bits & caramel sauce (gf)</p>
+                <p>Kr 170</p>
+            </div>
+            <div class="menu-item">
+                <h4>Affogato</h4>
+                <p>creamy shot of espresso over a scoop of ice cream (gf)</p>
+                <p>extra scoop + 2.5</p>
+                <p>add Amaretto or coffee liqueur + 3.5</p>
+                <p>Kr 185</p>
+            </div>
+            <div class="menu-item">
+                <h4>Ice Cream</h4>
+                <p>with fruit coulis (gf)</p>
+                <p>Kr 178</p>
+            </div>
+        </div>
+        <div class="menu-section">
+            <h3>Sides</h3>
+            <div class="menu-item">
+                <h4>Roasted Potato Chips</h4>
+                <p>Kr 125</p>
+            </div>
+            <div class="menu-item">
+                <h4>Pickles & Ferments</h4>
+                <p>Kr 135</p>
+            </div>
+            <div class="menu-item">
+                <h4>Multiseed Crackers</h4>
+                <p>Kr 125</p>
+            </div>
+            <div class="menu-item">
+                <h4>Sunshine Salad</h4>
+                <p>Kr 140</p>
+            </div>
+            <div class="menu-item">
+                <h4>Asian Watermelon Salad</h4>
+                <p>Kr 140</p>
+            </div>
+        </div>
+    </main>
+<footer>
+    <div id="contact">
+        <h3>Contact us</h3>
+        <p>+46 8 644 20 33</p>
+        <p>Hammarby Slussväg 2</P
+        <p>118 60 Stockholm</p>
+        <p>Sweden</p>
+    </div>
+    <div>
+        <!-- To insert a map visit: https://google-map-generator.com/ -->
+        <!-- To insert a contact form, visit: https://www.w3schools.com/howto/howto_css_contact_form.asp -->
+
+    </div>
+</footer>
+</body>
+</html>
